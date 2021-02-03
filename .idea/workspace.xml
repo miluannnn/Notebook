@@ -53,6 +53,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -63,6 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610178694879</updated>
+      <workItem from="1612098058588" duration="61000" />
     </task>
     <task id="LOCAL-00001" summary="更新了八股文-java基础与java容器">
       <created>1610188707445</created>
@@ -85,8 +89,18 @@
       <option name="project" value="LOCAL" />
       <updated>1610190725288</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="合并主干">
+      <created>1612098084251</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612098084251</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -104,23 +118,5 @@
     <MESSAGE value="更新了八股文-java基础与java容器" />
     <MESSAGE value="合并主干" />
     <option name="LAST_COMMIT_MESSAGE" value="合并主干" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="122" y="51" key="MergeDialog" timestamp="1610190717692">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="122" y="51" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1610190717692" />
-    <state x="277" y="101" key="MultipleFileMergeDialog" timestamp="1610190717699">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="277" y="101" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1610190717699" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1610190735166">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1610190735166" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1610188700707">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1610188700707" />
   </component>
 </project>
