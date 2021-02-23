@@ -24,6 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c246730d-350a-4194-8af0-4a9baef840e7" name="Default Changelist" comment="合并主干">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/学习/分布式与高并发/git.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +78,7 @@
       <workItem from="1612356424941" duration="1301000" />
       <workItem from="1612499071902" duration="44000" />
       <workItem from="1614051733907" duration="430000" />
-      <workItem from="1614052170122" duration="783000" />
+      <workItem from="1614052170122" duration="1482000" />
     </task>
     <task id="LOCAL-00001" summary="更新了八股文-java基础与java容器">
       <created>1610188707445</created>
@@ -170,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614052371624</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="合并主干">
+      <created>1614052973560</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1614052973560</updated>
+    </task>
+    <task id="LOCAL-00015" summary="合并主干">
+      <created>1614053028075</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1614053028076</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
