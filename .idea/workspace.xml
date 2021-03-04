@@ -77,6 +77,7 @@
       <workItem from="1614051733907" duration="430000" />
       <workItem from="1614052170122" duration="2088000" />
       <workItem from="1614568711978" duration="53000" />
+      <workItem from="1614771544469" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="更新了八股文-java基础与java容器">
       <created>1610188707445</created>
@@ -197,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614568752916</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="合并主干">
+      <created>1614771554834</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1614771554834</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
