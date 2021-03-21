@@ -229,7 +229,7 @@ Redis replication -> 主从架构 -> 读写分离 -> 水平扩容支撑读高并
 
 ## 5.2 Redis replication 的核心机制
 
-- Redis 采用**异步方式**复制数据到 slave 节点，不过 Redis2.8 开始，slave node 会周期性地确认自己每次复制的数据量；
+- Redis 采用**异步方式**复制数据到 slave 节点，不过 Redis 2.8 开始，slave node 会周期性地确认自己每次复制的数据量；
 - 一个 master node 是可以配置多个 slave node 的；
 - slave node 也可以连接其他的 slave node；
 - slave node 做复制的时候，不会 block master node 的正常工作；
