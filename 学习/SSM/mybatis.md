@@ -96,3 +96,14 @@ SQL 映射文件只有很少的几个顶级元素（按照应被定义的顺序�
 
 这个语句名为 selectPerson，接受一个 int（或 Integer）类型的参数，并返回一个 HashMap 类型的对象，其中的键是列名，值便是结果行中的对应值。 
 
+
+
+## mybatis的内置参数
+
+**_parameter**:代表整个参数	                                      
+
+1. 单个参数：_parameter就是这个参数                                       _
+2. _多个参数：参数会被封装为一个map:_parameter就是代表这个map                         
+
+**_databaseId**:如果配置了databaseIdProvider标签, _databaseId 就是代表当前数据库的别名Oracle
+
