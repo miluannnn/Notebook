@@ -77,6 +77,40 @@ null |    6
 null |    5
 ```
 
+### 3、函数
+
+### 汇总
+
+| 函 数   | 说 明            |
+| ------- | ---------------- |
+| AVG()   | 返回某列的平均值 |
+| COUNT() | 返回某列的行数   |
+| MAX()   | 返回某列的最大值 |
+| MIN()   | 返回某列的最小值 |
+| SUM()   | 返回某列值之和   |
+
+AVG() 会忽略 NULL 行。
+
+使用 DISTINCT 可以汇总不同的值。
+
+```sql
+SELECT AVG(DISTINCT col1) AS avg_col
+FROM mytable;
+```
+
+## GROUP BY 语句
+
+GROUP BY 语句用于结合聚合函数，根据一个或多个列对结果集进行分组。
+
+> 示例：
+
+```sql
+SELECT site_id, SUM(access_log.count) AS nums
+FROM access_log GROUP BY site_id;
+```
+
+![img](https://www.runoob.com/wp-content/uploads/2013/09/groupby1.jpg)
+
 ## 二、sql小题
 
 ### 176 第二高的薪水
