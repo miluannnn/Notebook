@@ -22,11 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c246730d-350a-4194-8af0-4a9baef840e7" name="Default Changelist" comment="合并主干">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leedcode/动态规划.md" beforeDir="false" afterPath="$PROJECT_DIR$/leedcode/动态规划.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/学习/分布式与高并发/Elasticsearch.md" beforeDir="false" afterPath="$PROJECT_DIR$/学习/分布式与高并发/Elasticsearch.md" afterDir="false" />
-    </list>
+    <list default="true" id="c246730d-350a-4194-8af0-4a9baef840e7" name="Default Changelist" comment="合并主干" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,6 +92,7 @@
       <workItem from="1616305858083" duration="143000" />
       <workItem from="1616495672868" duration="39000" />
       <workItem from="1616629486204" duration="69000" />
+      <workItem from="1616636020992" duration="121000" />
     </task>
     <task id="LOCAL-00001" summary="更新了八股文-java基础与java容器">
       <created>1610188707445</created>
@@ -293,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616495699048</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="合并主干">
+      <created>1616636133106</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1616636133106</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
